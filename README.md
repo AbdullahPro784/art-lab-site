@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="1351" height="635" alt="image" src="https://github.com/user-attachments/assets/803d2c09-8e35-4881-9463-843c50a6ba92" />
 
 Art Lab
 
