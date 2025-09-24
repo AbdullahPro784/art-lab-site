@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 Art Lab
 
 Art Lab is a creative, interactive, and visually stunning web platform designed to showcase digital art, experiments, and interactive experiences. This project is built to explore UI/UX design, animations, and user engagement, giving visitors a seamless and immersive browsing experience.
